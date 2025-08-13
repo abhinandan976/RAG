@@ -71,9 +71,10 @@ These concepts will be applied to a **large-scale enterprise AI assistant** capa
 - Summarizing results into actionable insights
 - Supporting multiple languages and domains
 
----
-
-
+## 📂 Repository Structure
+├── License
+├── RAG.pdf
+README.md
 ---
 
 ## 📜 License
@@ -84,6 +85,3 @@ You are free to use, modify, and share it with attribution.
 
 ## ⭐ Support
 If you find these notes useful, give this repository a **star** 🌟 and share it with fellow AI enthusiasts.
-
-
-## 📂 Repository Structure
