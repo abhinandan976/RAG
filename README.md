@@ -1,4 +1,4 @@
-# Retrieval-Augmented Generation (RAG) - Comprehensive Notes
+# Retrieval-Augmented Generation (RAG)
 
 This repository contains **handwritten notes** covering **Retrieval-Augmented Generation (RAG)** in depth, based on a complete walkthrough of concepts, architecture, and practical applications.
 
